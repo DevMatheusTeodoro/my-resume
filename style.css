@@ -62,7 +62,7 @@ body {
 .btn-download {
     border: rgb(0, 0, 0) solid 2px;
     font-size: 0.7rem;
-    font-weight: 600;
+    font-weight:bolder;
     padding: 5px 10px 5px 10px;
     border-radius: 10px;
 }
@@ -70,6 +70,7 @@ body {
 .btn-download:hover {
     background-color: #54AFE4;
     color: white;
+    font-weight:bolder;
     text-decoration: none;
     padding: 5px 10px 5px 10px;
 }
@@ -91,6 +92,7 @@ a {
 a:hover {
   text-decoration: underline;
   font-weight: 600;
+  color: #54AFE4;
 }
 
 .separator {
